@@ -7,5 +7,4 @@ import lombok.Data;
 @AllArgsConstructor
 public class Status {
     private String hostName;
-    private String helloWorld;
 }
