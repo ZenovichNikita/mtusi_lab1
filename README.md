@@ -48,3 +48,10 @@
 
 ### Эндпоинты приложения для получения hostname
 curl GET {adress}/api/v1/status
+
+## Лабораторная работа №3: CI/CD и деплой приложения в Heroku
+Целью лабораторной работы является знакомство с CI/CD и его реализацией на примере Travis CI и Heroku.
+### Ссылка на развернутое приложение на платформе Heroku
+http://mtusisimpleapi.herokuapp.com/api/v1/status
+
+
