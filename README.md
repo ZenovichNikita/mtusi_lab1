@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ZenovichNikita/mtusi_lab1.svg?branch=master)](https://travis-ci.org/lsemenov/mylab)
+[![Build Status](https://travis-ci.org/ZenovichNikita/mtusi_lab1.svg?branch=master)](https://travis-ci.org/ZenovichNikita/mtusi_lab1)
 # Технологии разработки программного обеспечения
 ## Лабораторная работа № 1: создание микросервиса на Spring Boot с базой данных
 ## Зенович Никита Евгеньевич ЗМБД2031
