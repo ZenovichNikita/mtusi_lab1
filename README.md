@@ -47,3 +47,4 @@
 Удаление элемента из таблицы "products":                    `curl DELETE {adress}/api/v1/products/{id}`
 
 ### Эндпоинты приложения для получения hostname
+curl GET {adress}/api/v1/status
